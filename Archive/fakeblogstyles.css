@@ -1,0 +1,43 @@
+div {
+    border-style: solid;
+    max-width: 600px;
+    text-align: center;
+    background-color: lightgoldenrodyellow; 
+    opacity: 0.6;
+}
+body {
+    padding: 20px; 
+    font-size: large; 
+    text-align: center;
+    background-image: url("IndyPuppy.jpg");
+}
+table {
+    background: cadetblue; color: black; padding: 20px;
+}
+td {
+    padding: 10px;
+}
+li {
+    padding: 5px;
+    text-align: left;
+}
+p {
+    color: teal; word-wrap: wrap; max-width: 800px; font-size: 15px;
+}
+ul {
+    color: teal;
+}
+h1 {
+    color: darkviolet;
+}
+form {
+    background: lavender; 
+    font-size: large; 
+    max-width: 700px; 
+    border-radius: 2px;
+}
+a {
+    color: teal;
+    padding: 10px;
+    font-style: normal;
+}
